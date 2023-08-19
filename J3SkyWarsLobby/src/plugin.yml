@@ -1,0 +1,6 @@
+name: J3SkyWarsLobby
+main: store.j3studios.plugin.SWL
+version: 1.0.0
+author: J3Studios
+commands:
+  testing:

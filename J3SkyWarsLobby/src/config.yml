@@ -1,0 +1,20 @@
+#
+# J3Studios SkyWars - Bungee Arena!
+# New SkyWars Project for Spigot!
+#
+
+# Server configuration
+server:
+  socket-connector:
+    enable: false
+    port: 9876
+  database:
+    enable: true
+    username: 'root'
+    password: ' '
+    hostname: 'localhost'
+    port: 3306
+    dbname: 'skywars'
+  
+# Game configuration
+  
